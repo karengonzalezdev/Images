@@ -1,2 +1,2 @@
 # Images
-Storage of private project images
+Storage of project images
